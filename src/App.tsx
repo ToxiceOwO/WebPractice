@@ -1,5 +1,5 @@
 // src/App.tsx
-import React, { useEffect, useState } from 'react';
+import React, { useState } from 'react';
 
 // 定义文章类型
 interface Post {
